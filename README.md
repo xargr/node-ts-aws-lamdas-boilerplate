@@ -1,4 +1,4 @@
-# node-ts-aws-lamdas-boilerplate
+# node-ts-aws-lambdas-boilerplate
 A boilerplate node.js typescript template for aws lambdas function
 
 ## ncc
